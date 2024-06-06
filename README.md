@@ -6,7 +6,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!---
-sathish0205/sathish0205 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+TypeScript   7 hrs 4 mins    ███████████████████▒░░░░░   77.68 %
+CSS          1 hr 25 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.56 %
+JavaScript   21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
+JSON         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
