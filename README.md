@@ -1,3 +1,7 @@
+
+  <p align="center">
+  <img style"position:absolute"; src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTgzNTcxNzgsIm5iZiI6MTcxODM1Njg3OCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjE0VDA5MjExOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWY3ZjE5MmNmNDAyZjZmMTVmZDQ4ZjdjNTBkNjBlMjUzYjgwNWNiNTc2MTM5YmE2Y2NmN2Y2MDFhMjNjNDlkYWQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.akZH6gjqnRjENnqUe8atDcJpuUC5WNyKx3iSNkOrRpU" alt="sathish0205" />
+IA A SATHISHKUMAR FULLSTACK DEVELOPER </p>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
 <p align="left">
@@ -12,7 +16,21 @@
 
 A Web Developer proficient in Angular, PHP, and MySQL, specializing in creating responsive and interactive web applications. Skilled in both frontend and backend development, with a strong foundation in database management.
 
-<h3 align="left">Connect with me:</h3>
+## Skills and Technologies
+
+* **Front-end:**
+    - HTML5
+    - CSS3
+    - JavaScript
+    - Angular
+    - Bootstrap (and so on)
+* **Back-end:**
+    - PHP
+    - MySQL
+    - Node.js (and so on)
+* **Other:**
+    - Git
+    - Version Control (and so on)
 <p align="left">
   <!-- Add links to your social media profiles here -->
 </p>
